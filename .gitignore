@@ -1,2 +1,8 @@
-/build
-*.swp
+node_modules
+npm-debug.log
+yarn-debug.log
+.DS_Store
+.vscode
+.coveralls.yml
+.idea
+build/
